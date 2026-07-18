@@ -1,85 +1,51 @@
-# Hi there 👋 I'm Muhammad Khalid
+# Hi, I'm Muhammad Khalid 👋
 
-🎓 **BS Computer Science Student**  
-💻 Passionate about Software Development, Artificial Intelligence, and Cybersecurity.  
-🚀 I enjoy building practical desktop applications, AI-powered tools, and secure software systems while continuously learning new technologies.
+**Computer Science Student | Software Engineer in Progress**
 
----
-
-## 🚀 About Me
-
-- 🎓 BS Computer Science — COMSATS University Islamabad (Wah Campus)
-- 🌱 Currently learning Software Engineering, AI, Backend Development, and Cybersecurity
-- 💡 Interested in C++, Python, AI, and Secure Software Development
-- 🎯 Goal: Become a Software Engineer specializing in AI and Security
+I enjoy designing software that solves practical problems through clean architecture, efficient algorithms, and secure development practices. My interests span desktop applications, backend systems, artificial intelligence, and cybersecurity.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Development
-
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Technologies
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🔒 LLM Security Gateway
+### 🔒 LLM Security Gateway
+Hybrid AI security gateway for detecting prompt injection attacks, multilingual threats, and sensitive information using rule-based detection, semantic analysis, and policy enforcement.
 
-A Flask-based AI security gateway that detects prompt injection attacks, masks sensitive information, and applies security policies.
-
-**Tech Used**
-
-- Python
-- Flask
-- Presidio
-- spaCy
-- Sentence Transformers
-
-Repository:
-
-https://github.com/Stranger-Khalid/llm-security-gateway
+### 🧩 Dynamic Sudoku Generator & Solver
+Windows desktop Sudoku application featuring dynamic puzzle generation, recursive backtracking, and implementations of linked lists, stacks, and queues.
 
 ---
 
-## 🧩 Dynamic Sudoku Generator & Solver
+## 🌱 Currently Exploring
 
-A Windows desktop Sudoku application developed in C++ using WinAPI.
-
-Features include:
-
-- Dynamic Sudoku generation
-- Recursive backtracking solver
-- Linked List
-- Stack
-- Queue
-- Undo
-- Hint system
-- Multiple difficulty levels
-- Animated solving
-
-Repository:
-
-https://github.com/Stranger-Khalid/dynamic-sudoku-cpp
+- Artificial Intelligence
+- Backend Development
+- Software Engineering
+- Cybersecurity
 
 ---
 
-## 📚 Currently Working On
-
-- Multi-Client Chat Application
-- AI User Story Generator
-- Expanding my software engineering portfolio
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stranger-Khalid&show_icons=true&theme=tokyonight)
 
@@ -87,14 +53,8 @@ https://github.com/Stranger-Khalid/dynamic-sudoku-cpp
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-📧 **FA24-BCS-043@cuiwah.edu.pk**
+📧 FA24-BCS-043@cuiwah.edu.pk
 
-GitHub:
-
-https://github.com/Stranger-Khalid
-
----
-
-> *"Learning by building practical software one project at a time."*
+> *"Building software that is practical, efficient, and reliable."*
